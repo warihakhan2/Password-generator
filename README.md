@@ -1,1 +1,1 @@
-# number-guessing-game
+# Password-generator
